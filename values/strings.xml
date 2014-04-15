@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="version">1.1.0-Beta2</string>
+    <string name="is_beta">false</string>
+    <string name="app_name">GMobile</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="radiolist_toggle">radio"</string>
+    <string name="hintSearch">Search</string>
+    <string name="textOn">ON</string>
+    <string name="textOff">OFF</string>
+    <string name="btnChangeRadio">Change station</string>
+    <string name="btnClearQueue">Clear Queue</string>
+    <!-- End -->
+    <!-- menu_song -->
+    <string name="menuAddSongToPlaylists">Add to playlist</string>
+    <string name="menuAddSongToQueue">Add to queue</string>
+    <string name="menuPlaySong">Play</string>
+    <string name="menuRemoveSongFromPlaylist">Remove from playlist</string>
+    <string name="menuMoreFromThisArtist">More from this artist</string>
+    <string name="menuMoreFromThisAlbum">More from this album</string>
+    <string name="menuActivateMultiselect">Activate multiselect</string>
+    <string name="menuSelectAll">Select all</string>
+    <string name="menuUnselectAll">Unselect all</string>
+    <!-- End -->
+    <!-- menu_player_dropdown -->
+    <string name="menuSettings">Settings</string>
+    <string name="menuAbout">About</string>
+    <string name="menuEqualizer">Equalizer</string>
+    <string name="menuShutDown">Shut down</string>
+    <string name="menuReorder">Reorder</string>
+    <!-- End -->
+    <!-- Preferences -->
+    <string name="pref_general">General</string>
+    <string name="pref_donate">Donate</string>  
+    <string name="pref_other">Other</string>
+    <string name="pref_stats">Statistics</string>
+    <string name="pref_stats_sum">View usage statistics for GMobile</string>
+    <string name="pref_facebook">Us on Facebook</string>
+    <string name="pref_facebook_sum">Check out GrooveMobile on facebook</string>
+    <string name="pref_storage">Storage</string>
+    <string name="pref_storage_to">Storage location</string>
+    <string name="pref_storage_to_sum">Select location to storage songs for offline listening</string>   
+    <string name="pref_storage_clear">Clear Cache</string>
+    <string name="pref_storage_clear_sum">Delete all cache that storaged for offline listening</string>
+    <string name="pref_report">Report Silent Bugs</string>
+    <string name="pref_report_sum">Report bugs that appear but does not result in app-crash</string>
+    <string name="pref_low_bitrate">Use High Bitrate</string>
+    <string name="pref_low_bitrate_sum">Use for better soundquality (uses more data)</string>
+    <string name="pref_pre_buffer">Use Pre-buffering</string>
+    <string name="pref_pre_buffer_sum">Pre-buffer next song to enable direct playback</string>
+    <string name="pref_lock_screen">LockScreen Controls</string>
+    <string name="pref_lock_screen_sum">Use LockScreen Controls to control music-playback from lockscreen</string>
+    <string name="pref_auto_login">Auto Login</string>
+    <string name="pref_auto_login_sum">Automatically login to GS-account if possible</string>
+    <string name="report_info">Silent bugs is a bug that does not cause a crash, and there for does not allow you to report it. This function allows you to report those bugs as well. Please do not report crashes or freezes with this function. Please write reports in english.</string>
+    <string name="pref_dev_info">Dev\'s Progress</string>
+    <string name="pref_dev_info_sum">What have the dev planned of GrooveMobile, and how is it going</string>
+    <string name="pref_version_sum">GrooveMobile version</string>
+    <string name="pref_activate_beta">Activate beta</string>
+    <string name="pref_activate_beta_sum">Enter beta-key to activate beta-access</string>
+    <string name="pref_vis">Show visualizer</string>
+    <string name="pref_vis_sum">Show visualizer in the Player</string>
+    <string name="pref_request">Request</string>
+    <string name="pref_request_sum">Request a feature or change in the app</string>
+    <string name="pref_gmobile_cat">GMobile</string>
+    <string name="pref_appearances_cat">Appearances</string>
+    <string name="pref_theme">Select theme</string>
+    <string name="pref_theme_sum">Select a theme for the app to use</string>
+    <string name="pref_whats_new">What\'s new</string>
+    <string name="pref_whats_new_url">http://www.scilor.com/groovemobile/mobile/index_en.html</string>
+    <string name="pref_active_download_count">Active download count</string>
+    <string name="pref_active_download_count_sum">Set number of active download allowed</string>
+    <!-- End -->
+    <!-- Playlist -->
+    <plurals name="PlayListPlural">
+    <item quantity="one">%1$s Track</item>
+    <item quantity="other">%1$s Tracks</item>
+	</plurals>
+    <!-- End -->
+    <!-- Playlist Menu -->
+    <string name="menuOpenPlaylist">Open</string>
+    <string name="menuRenamePlaylist">Rename</string>
+    <string name="menuDeletePlaylist">Delete</string>
+    <string name="menuSongsOffline">Make available offline</string>
+    <string name="menuAddListToQueue">Add to queue</string>
+    <string name="menuSendViaBluetooth">Send via Bluetooth</string>
+    <!-- End -->
+    <!-- New Playlists -->
+    <string name="newPlaylistTitle">New playlist</string>
+    <string name="newPlaylistCreate">Create</string>
+    <!-- End -->
+    <!-- Add to list -->
+    <string name="addToTitle">Select playlist</string>
+    <string name="addToNewPlaylist">New Playlist</string>
+    <string name="addToOK">OK</string>
+    <string name="addToPrivate">Private Playlist</string>
+    <string name="addToLocal">Local Playlist</string>
+    <string name="addToType">Add to</string>
+    <!-- End -->
+    <!-- Update -->
+    <string name="updateNewUpdate">New update</string>
+    <string name="updateNotNow">Not now</string>
+    <string name="updateInstall">Install</string>
+    <string name="updateInfoText">New update available \nPlease press "install" to install it now</string>
+    <!-- End -->
+    <!-- Menu Song Dropdown -->
+    <string name="mnuGetPopulare">Get popular</string>
+    <string name="mnuGetSimilarArtist">Get Similar Artist</string>
+    <!-- End -->
+    <!-- Login -->
+    <string name="loginTitle">Log in</string>
+    <string name="loginUsername">Email:</string>
+    <string name="loginPassword">Password:</string>
+    <string name="loginRememberMe">Remember me?</string>
+    <string name="loginRegister">Register</string>
+    <string name="loggingInTitle">Logging in</string>
+    <string name="loggingInGetting">Getting playlists</string>
+    <string name="loggingInGettingCount">Getting: </string>
+    <string name="loggingInLoggedIn">Logged in!</string>
+    <string name="logginginVerify">Verifying account</string>
+    <string name="loginUnsuccessful">Unsuccessful! Incorrect username or password!</string>
+    <string name="loginSuccessful"> Successful! Hold on a sec, loading your playlists!</string>
+    <string name="loginForgotPassword"><u>Forgot password?</u></string>
+    <string name="loginNotInloged">Not logged in</string>
+    <string name="loginError">Error while logging in</string>
+    <string name="loginGuest">Guest</string>
+    <string name="loginOutOfSyncTitle">Out of sync!</string>
+    <string name="loginOutOfSyncMsg">Some of your playlists appears to be out of sync. Do you want to sync them now?</string>
+    <!-- End -->
+    <!-- ResetPassword -->
+    <string name="resetPwTitle">Reset Password</string>
+    <string name="resetPwClose">Close</string>
+    <string name="resetPwReset">Reset</string>
+    <string name="resetPwSuccessful">Successful! Check you email for a new password</string>
+    <string name="resetPwUnsuccessful">Unsuccessful! No account with that username exists</string>
+    <!-- End -->
+    <!-- Rename Private Playlist -->
+    <string name="renameTitle">Rename playlist</string>
+    <string name="renameOK">OK</string>
+    <string name="renameSuccessful">Your playlist has been renamed</string>
+    <string name="renameUnsuccessful">Unsuccessful! Could not rename your playlist!</string>
+    <!-- End -->
+    <!-- Delete Private Playlist -->
+    <string name="deletePrivateTitle">Delete Playlist</string>
+    <string name="deletePrivateInfo">Are you sure that you want to delete this playlist?</string>
+    <string name="deletePrivateYes">Yes</string>
+    <string name="deletePrivateNo">No</string>
+    <string name="deletePrivateSuccessful">Your playlist has been deleted!</string>
+    <string name="deletePrivateUnsuccessful">Unsuccessful! Could not delete your playlist!</string>
+    <!-- End -->
+    <!-- Delete Private Songs -->
+    <string name="deletePrivateSongUnsuccessful">Unsuccessful! Could not delete songs!</string>
+    <!-- End -->
+    <!-- Add Private Songs -->
+    <string name="addPRivateSongUnsuccessful">Unsuccessful! Could not add songs!</string>
+    <!-- End -->
+    <!-- Account Menu -->
+    <string name="accountLogOut">Log out</string>
+    <string name="accountCreatePlaylist">Create playlist</string>
+    <string name="accountSyncPlaylist">Sync playlists</string>
+    <!-- End -->
+    <!-- Create Playlist on Account -->
+    <string name="createOnAccUnsuccessful">Unsuccessful! Could not create new playlist!</string>
+    <!-- End -->
+    <!-- Register new account -->
+    <string name="registerTitle">Create account</string>
+    <string name="registerClose">Close</string>
+    <string name="registerSubmit">Create</string>
+    <string name="registerEmailNotAvailable">Account already exists!</string>
+    <string name="registerFirstName">Firstname:</string>
+    <string name="registerLastName">Lastname:</string>
+    <!-- End -->
+    <!-- Div. Toasts -->
+    <string name="toastWaitForRadioChannel">Radio not loaded yet. Wait 2 sec and try again.</string>
+    <!-- End -->
+    <!-- Equalizer -->
+    <string name="eqOn">ON</string>
+    <string name="eqOff">OFF</string>
+    <!-- End -->
+    <!-- Left menu -->
+    <string name="LeftMPlayer">Player</string>
+    <string name="LeftMSearch">Search</string>
+    <string name="LeftMPlaylist">Playlists</string>
+    <string name="LeftMSettings">Settings</string>
+    <string name="LeftMAbout">About</string>
+    <!-- End -->
+    <!-- StatsActivity -->
+    <string name="statsOthers">Other</string>
+    <string name="statsTitle">Statistics</string>
+    <string name="statsLoading">Loading. Please wait...</string>
+    <string name="statsInfo">Statistics will be clear each month</string>
+    <!-- End -->
+    <!-- RequestCreateActivity -->
+    <string name="requestTitle">Title:</string>
+    <string name="requestDescript">Description:</string>
+    <string name="requestSend">Create</string>
+    <string name="requestCancel">Cancel</string>
+    <string name="requestWentWrong">Ops! Something didn\'t go as expected! Try again or contact the developer!</string>
+    <string name="requestEmptyField">Ops! Looks like you forgot to fill in a title or description!</string>
+    <!-- End -->
+    <!-- RequestViwerActivity -->
+    <string name="requestVoteDenied">You\'ve already voted!</string>
+    <string name="requestVoted">You\'ve voted!</string>
+    <string name="reqeustVoteDeniedYourReq">You can\'t vote on your own request!</string>
+    <string name="reqeustVoteDeniedYourCom">You can\'t vote on your own comment!</string>
+    <string name="requestLoadingComments">Loading comments!</string>
+    <string name="requestNoComments">This request has no comments yet!</string>
+    <string name="requestCommentPosted">Your comment has been posted!</string>
+    <string name="requestContactingServer">Contacting server. Please wait...</string>
+    <string name="requestCommentReadMore">Read more</string>
+    <string name="requestCommentHint">Write a comment...</string>
+    <string name="requestCommentPostedBy">Posted by </string>
+    <string name="requestViewerInfo"> Here you can view a single request in more detail, and also the comments posted by other users.\n\nYou can vote on the request with the like and dislike buttons, you can also post a comment and vote on other comments.\nJust tap on a comment to view the full lenght and to vote on it!</string>
+    <!-- End -->
+    <!-- RequestBroswerActivity -->
+    <string name="requestBroswerInfo">Here you can request a feature or change in the app. Then other users can vote and comment on them.\n\nThe more likes a request has, the more likley it is that i\'ll make it happen!</string>
+    <string name="requestErrorNonFound">No request exists yet, why don\'t you create the first!</string>
+    <!-- End -->
+    <!-- About -->
+    <string name="aboutApp">GMobile is a free to use music streaming app for Android, made by Pontus and Daniel (aka Scilor). It uses Grooveshark server to give you free music at any time.\n\nWe\'re not related to Grooveshark in anyway.\n\nCredit:\n\nJanne - Finnish Translation\n\nSarfati - French Translation\n\nDavid - German Translation\n\nEnrique - Spanish Translation\n\n游鈞元 - Chinese Translation\n\nAli - Design ideas\n\nGaspar - Design ideas &amp; feedback\n\nBeta testers - Feedback</string>
+</resources>

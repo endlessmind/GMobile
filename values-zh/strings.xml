@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">GMobile</string>
+    <string name="drawer_open">開啟導航列</string>
+    <string name="drawer_close">關閉導航列</string>
+    <string name="radiolist_toggle">廣播</string>
+    <string name="hintSearch">搜尋</string>
+    <string name="textOn">開</string>
+    <string name="textOff">關</string>
+    <string name="btnChangeRadio">換個電台</string>
+    <string name="btnClearQueue">清空播放列</string>
+    <!-- End -->
+    <!-- menu_song -->
+    <string name="menuAddSongToPlaylists">加入播放清單</string>
+    <string name="menuAddSongToQueue">加入播放列</string>
+    <string name="menuPlaySong">播放</string>
+    <string name="menuRemoveSongFromPlaylist">從清單中移除</string>
+    <string name="menuMoreFromThisArtist">演出者資訊</string>
+    <string name="menuMoreFromThisAlbum">專輯資訊</string>
+    <string name="menuActivateMultiselect">啟用多選模式</string>
+    <!-- End -->
+    <!-- menu_player_dropdown -->
+    <string name="menuSettings">設定</string>
+    <string name="menuAbout">關於</string>
+    <string name="menuEqualizer">等化器</string>
+    <string name="menuShutDown">关闭</string>
+    <string name="menuReorder">重新排序</string>
+    <!-- End -->
+    <!-- Preferences -->
+    <string name="pref_general">一般</string>
+    <string name="pref_donate">贊助</string>
+    <string name="pref_other">其他</string>
+    <string name="pref_stats">統計</string>
+    <string name="pref_stats_sum">查看統計資料</string>
+    <string name="pref_facebook">我們的Facebook</string>
+    <string name="pref_facebook_sum">在facebook上關注我們</string>
+    <string name="pref_storage">儲存</string>
+    <string name="pref_storage_to">儲存位置</string>
+    <string name="pref_storage_to_sum">選擇離線歌曲的儲存位置</string>
+    <string name="pref_storage_clear">清除離線歌曲</string>
+    <string name="pref_storage_clear_sum">清除所有的離線歌曲</string>
+    <string name="pref_report">回報隱藏的錯誤</string>
+    <string name="pref_report_sum">回報不會導致程式強制關閉的錯誤</string>
+    <string name="pref_low_bitrate">使用低位元率</string>
+    <string name="pref_low_bitrate_sum">與用低位元率收聽音樂以達到更快的緩衝速度</string>
+    <string name="pref_pre_buffer">預先緩衝</string>
+    <string name="pref_pre_buffer_sum">預先載入下首歌曲的緩衝使它能直接被播放</string>
+    <string name="pref_lock_screen">鎖屏控制</string>
+    <string name="pref_lock_screen_sum">在螢幕上鎖時可控制音樂播放</string>
+    <string name="pref_auto_login">自動登入</string>
+    <string name="pref_auto_login_sum">盡可能地自動登入GS帳號</string>
+    <string name="report_info">隱藏的錯誤是一種不會使程式強制關閉的錯誤，這個功能可以讓您回報這些問題。如果是程式強制關閉或是卡住的問題請不要在這邊回報。並且請用英文回報。</string>
+    <string name="pref_dev_info">開發者進度</string>
+    <string name="pref_dev_info_sum">開發者最近做了什麼與未來計畫</string>
+    <string name="pref_version_sum">GrooveMobile 版本</string>
+    <string name="pref_activate_beta">啟用測試功能</string>
+    <string name="pref_activate_beta_sum">輸入測試金鑰來啟用測試功能</string>
+    <string name="pref_vis">視覺效果</string>
+    <string name="pref_vis_sum">在播放器中使用視覺效果</string>
+    <string name="pref_request">提供意見</string>
+    <string name="pref_request_sum">建議新功能或提供意見給開發者</string>
+    <string name="pref_gmobile_cat">GMobile</string>
+    <!-- End -->
+    <!-- Playlist -->
+    <plurals name="PlayListPlural">
+    <item quantity="one">%1$s 首歌曲</item>
+    <item quantity="other">%1$s 首歌曲</item>
+	</plurals>
+    <!-- End -->
+    <!-- Playlist Menu -->
+    <string name="menuOpenPlaylist">開啟</string>
+    <string name="menuRenamePlaylist">重新命名</string>
+    <string name="menuDeletePlaylist">刪除</string>
+    <string name="menuSongsOffline">下載離線歌曲</string>
+    <string name="menuAddListToQueue">加入播放列</string>
+    <string name="menuSendViaBluetooth">透過藍芽傳送</string>
+    <!-- End -->
+    <!-- New Playlists -->
+    <string name="newPlaylistTitle">新增播放清單</string>
+    <string name="newPlaylistCreate">建立</string>
+    <!-- End -->
+    <!-- Add to list -->
+    <string name="addToTitle">選擇播放清單</string>
+    <string name="addToNewPlaylist">新增播放清單</string>
+    <string name="addToOK">確認</string>
+    <string name="addToPrivate">私人播放清單</string>
+    <string name="addToLocal">本機播放清單</string>
+    <string name="addToType">加入到</string>
+    <!-- End -->
+    <!-- Update -->
+    <string name="updateNewUpdate">新版本</string>
+    <string name="updateNotNow">現在不要</string>
+    <string name="updateInstall">安裝</string>
+    <string name="updateInfoText">有新的版本可使用\n如果要現在更新請按下 "安裝"</string>
+    <!-- End -->
+    <!-- Menu Song Dropdown -->
+    <string name="mnuGetPopulare">取得熱門音樂</string>
+    <string name="mnuGetSimilarArtist">更多相似的演出者</string>
+    <!-- End -->
+    <!-- Login -->
+    <string name="loginTitle">登入</string>
+    <string name="loginUsername">電子郵件:</string>
+    <string name="loginPassword">密碼:</string>
+    <string name="loginRememberMe">記住我?</string>
+    <string name="loginRegister">註冊</string>
+    <string name="loggingInTitle">登入中</string>
+    <string name="loggingInGetting">正在取得播放清單</string>
+    <string name="loggingInGettingCount">獲取: </string>
+    <string name="loggingInLoggedIn">已登入!</string>
+    <string name="logginginVerify">正在核對帳戶</string>
+    <string name="loginUnsuccessful">失敗! 使用者名稱或密碼錯誤!</string>
+    <string name="loginSuccessful"> 完成! 正在下載您的播放清單，請稍候!</string>
+    <string name="loginForgotPassword"><u>忘記密碼?</u></string>
+    <string name="loginNotInloged">未登入</string>
+    <!-- End -->
+    <!-- ResetPassword -->
+    <string name="resetPwTitle">重設密碼</string>
+    <string name="resetPwClose">關閉</string>
+    <string name="resetPwReset">重設</string>
+    <string name="resetPwSuccessful">完成! 請至電子郵件中確認新密碼</string>
+    <string name="resetPwUnsuccessful">失敗! 使用者名稱不存在</string>
+    <!-- End -->
+    <!-- Rename Private Playlist -->
+    <string name="renameTitle">重新命名播放清單</string>
+    <string name="renameOK">確認</string>
+    <string name="renameSuccessful">播放清單已被重新命名</string>
+    <string name="renameUnsuccessful">失敗! 無法重新命名播放清單!</string>
+    <!-- End -->
+    <!-- Delete Private Playlist -->
+    <string name="deletePrivateTitle">刪除播放清單</string>
+    <string name="deletePrivateInfo">確定要刪除此播放清單?</string>
+    <string name="deletePrivateYes">確定</string>
+    <string name="deletePrivateNo">取消</string>
+    <string name="deletePrivateSuccessful">已刪除此播放清單!</string>
+    <string name="deletePrivateUnsuccessful">失敗! 無法刪除此播放清單!</string>
+    <!-- End -->
+    <!-- Delete Private Songs -->
+    <string name="deletePrivateSongUnsuccessful">失敗! 無法刪除歌曲!</string>
+    <!-- End -->
+    <!-- Add Private Songs -->
+    <string name="addPRivateSongUnsuccessful">失敗! 無法加入歌曲!</string>
+    <!-- End -->
+    <!-- Account Menu -->
+    <string name="accountLogOut">登出</string>
+    <string name="accountCreatePlaylist">建立播放清單</string>
+    <string name="accountSyncPlaylist">同步播放清單</string>
+    <!-- End -->
+    <!-- Create Playlist on Account -->
+    <string name="createOnAccUnsuccessful">失敗! 無法新增播放清單!</string>
+    <!-- End -->
+    <!-- Register new account -->
+    <string name="registerTitle">新增帳戶</string>
+    <string name="registerClose">關閉</string>
+    <string name="registerSubmit">新增</string>
+    <string name="registerEmailNotAvailable">帳戶已存在!</string>
+    <!-- End -->
+    <!-- Div. Toasts -->
+    <string name="toastWaitForRadioChannel">無法取得廣播頻道，請兩秒後再試一次</string>
+    <!-- End -->
+    <!-- Equalizer -->
+    <string name="eqOn">開</string>
+    <string name="eqOff">關</string>
+    <!-- End -->
+    <!-- Left menu -->
+    <string name="LeftMPlayer">播放器</string>
+    <string name="LeftMSearch">搜尋</string>
+    <string name="LeftMPlaylist">播放清單</string>
+    <string name="LeftMSettings">設定</string>
+    <string name="LeftMAbout">關於</string>
+    <!-- End -->
+    <!-- StatsActivity -->
+    <string name="statsOthers">其它</string>
+    <string name="statsTitle">統計</string>
+    <string name="statsLoading">讀取中，請稍候...</string>
+    <string name="statsInfo">每個月會清除統計資料</string>
+    <!-- End -->
+    <!-- RequestCreateActivity -->
+    <string name="requestTitle">主旨:</string>
+    <string name="requestDescript">描述:</string>
+    <string name="requestSend">建立</string>
+    <string name="requestCancel">取消</string>
+    <string name="requestWentWrong">無法預期的錯誤! 再試一次或是聯絡開發者!</string>
+    <string name="requestEmptyField">您似乎忘了輸入主旨或是描述!</string>
+    <!-- End -->
+    <!-- RequestViwerActivity -->
+    <string name="requestVoteDenied">您已經投過票了!</string>
+    <string name="requestVoted">投票完成!</string>
+    <string name="reqeustVoteDeniedYourReq">無法在自己的建議上投票!</string>
+    <string name="reqeustVoteDeniedYourCom">無法在自己的評論上投票!</string>
+    <string name="requestLoadingComments">正在讀取評論!</string>
+    <string name="requestNoComments">尚未有針對此建議的評論!</string>
+    <string name="requestCommentPosted">已送出您的評論!</string>
+    <string name="requestContactingServer">與伺服器連接中，請稍候...</string>
+    <string name="requestCommentReadMore">查看更多</string>
+    <string name="requestCommentHint">發表評論...</string>
+    <string name="requestViewerInfo"> 您可以在這查看單一建議的詳細內容與其它使用者對它的評論， \n\n您可以對此項建議用"讚"或是"遜"的按鈕來投票, 也可以發表評論或對其它使用者的評論投票。\n點擊評論來查看所有內容並對它投票!</string>
+    <!-- End -->
+    <!-- RequestBroswerActivity -->
+    <string name="requestBroswerInfo">您可以在這建議新功能或提供意見給開發者。其它使用者可以對它投票。\n\n獲得越多"讚"的建議將會越有可能出現在下次的更新中!</string>
+    <string name="requestErrorNonFound">尚未有任何的建議，您要當第一個嗎?</string>
+    <!-- End -->
+</resources>

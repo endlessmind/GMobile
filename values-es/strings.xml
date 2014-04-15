@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">GMobile</string>
+    <string name="drawer_open">Abrir ventana de navegación</string>
+    <string name="drawer_close">Cerrar ventana de navegación</string>
+    <string name="radiolist_toggle">radio"</string>
+    <string name="hintSearch">Buscar</string>
+    <string name="textOn">ON</string>
+    <string name="textOff">OFF</string>
+    <string name="btnChangeRadio">Cambiar estación</string>
+    <string name="btnClearQueue">Limpiar cola</string>
+    <!-- End -->
+    <!-- menu_song -->
+    <string name="menuAddSongToPlaylists">Agregar a lista</string>
+    <string name="menuAddSongToQueue">Agregar a cola</string>
+    <string name="menuPlaySong">Tocar</string>
+    <string name="menuRemoveSongFromPlaylist">Quitar de lista</string>
+    <string name="menuMoreFromThisArtist">Más de este artista</string>
+    <string name="menuMoreFromThisAlbum">Más de este álbum</string>
+    <string name="menuActivateMultiselect">Activar multiselección</string>
+    <!-- End -->
+    <!-- menu_player_dropdown -->
+    <string name="menuSettings">Ajustes</string>
+    <string name="menuAbout">Acerca de</string>
+    <string name="menuEqualizer">Ecualizador</string>
+    <string name="menuShutDown">Cerrar</string>
+    <string name="menuReorder">Reorganizar</string>
+    <!-- End -->
+    <!-- Preferences -->
+    <string name="pref_general">General</string>
+    <string name="pref_donate">Donar</string>
+    <string name="pref_donate_key">mDonate</string>
+    <string name="pref_other">Otro</string>
+    <string name="pref_stats_key">mStats</string>
+    <string name="pref_stats">Estadísticas</string>
+    <string name="pref_stats_sum">Ver estadísticas de uso de GMobile</string>
+    <string name="pref_facebook">Nuestro Facebook</string>
+    <string name="pref_facebook_sum">GrooveMobile en facebook</string>
+    <string name="pref_storage">Almacenamiento</string>
+    <string name="pref_storage_to">Ubicación de almacenamiento</string>
+    <string name="pref_storage_to_key">mStorageTo</string>
+    <string name="pref_storage_to_sum">Elegir ubicación para guardar canciones para oír desconectado</string>
+    <string name="pref_storage_clear_key">mStorageClear</string>
+    <string name="pref_storage_clear">Vaciar Caché</string>
+    <string name="pref_storage_clear_sum">Borrar caché de canciones guardadas para oír desconectado</string>
+    <string name="pref_report_key">mReport</string>
+    <string name="pref_report">Reportar Bugs Silenciosos</string>
+    <string name="pref_report_sum">Reportar aparición de bugs que no resultan en cierre de app</string>
+    <string name="pref_low_bitrate">Use de alta Bitrate</string>
+    <string name="pref_low_bitrate_sum">El uso de alta velocidad de bits para un mejor sonido. (utiliza más datos)</string>
+    <string name="pref_pre_buffer_key">mPreBuffer</string>
+    <string name="pref_pre_buffer">Usar Pre-buffering</string>
+    <string name="pref_pre_buffer_sum">cargar en búfer sig. canción para activar reprod. directa</string>
+    <string name="pref_lock_screen_key">mLockScreen</string>
+    <string name="pref_lock_screen">Controles LockScreen</string>
+    <string name="pref_lock_screen_sum">Usar Controles LockScreen para controlar rep. de música desde pantalla bloqueada</string>
+    <string name="pref_auto_login_key">mAutoLogin</string>
+    <string name="pref_auto_login">Auto Inicio de Sesión</string>
+    <string name="pref_auto_login_sum">Automaticamente iniciar sesión en cuenta de GS si es posible</string>
+    <string name="report_info">Bug Silencioso es un error que no provoca un cierre, por lo que no te permite reportarlo. Esta función te permite reportar reportar ese tipo de errores también. Por favor no reportes cierres o congelamientos. Por favor manda tus reportes en inglés.</string>
+    <string name="pref_dev_info">Progreso del Des.</string>
+    <string name="pref_dev_info_key">mDevInfo</string>
+    <string name="pref_dev_info_sum">Lo que ha planeado el desarrollador de GrooveMobile, y cómo va</string>
+    <string name="pref_version_sum">Versión de GrooveMobile</string>
+    <string name="pref_version_key">mVersionKey</string>
+    <string name="pref_activate_beta_key">mActivateBeta</string>
+    <string name="pref_activate_beta">Activar beta</string>
+    <string name="pref_activate_beta_sum">Introduce cod. beta para activar beta-access</string>
+    <string name="pref_beta_supplied">mKeySupplied</string>
+    <string name="pref_eq_activated">mEqActive</string>
+    <string name="pref_rememberLogin">mRememberLogin</string>
+    <string name="pref_vis_key">mVisualizer</string>
+    <string name="pref_vis">Ver visualizador</string>
+    <string name="pref_vis_sum">Ver visualizador en Reproductor</string>
+    <string name="pref_request_key">mRequest</string>
+    <string name="pref_request">Peticiones</string>
+    <string name="pref_request_sum">Pide una característica o cambio en la app</string>
+    <string name="pref_gmobile_cat">GMobile</string>
+    <string name="pref_gmobile_cat_key">mGMobile</string>
+    <!-- End -->
+    <!-- Playlist -->
+    <plurals name="PlayListPlural">
+    <item quantity="one">%1$s Canción</item>
+    <item quantity="other">%1$s Canciones</item>
+	</plurals>
+    <!-- End -->
+    <!-- Playlist Menu -->
+    <string name="menuOpenPlaylist">Abrir</string>
+    <string name="menuRenamePlaylist">Renombrar</string>
+    <string name="menuDeletePlaylist">Delete</string>
+    <string name="menuSongsOffline">Disponible sin conexión</string>
+    <string name="menuAddListToQueue">Agregar a cola</string>
+    <string name="menuSendViaBluetooth">Enviar via Bluetooth</string>
+    <!-- End -->
+    <!-- New Playlists -->
+    <string name="newPlaylistTitle">Nueva lista</string>
+    <string name="newPlaylistCreate">Crear</string>
+    <!-- End -->
+    <!-- Add to list -->
+    <string name="addToTitle">Seleccionar lista</string>
+    <string name="addToNewPlaylist">Nueva Lista</string>
+    <string name="addToOK">OK</string>
+    <string name="addToPrivate">Lista Privada</string>
+    <string name="addToLocal">Lista Local</string>
+    <string name="addToType">Agregar a</string>
+    <!-- End -->
+    <!-- Update -->
+    <string name="updateNewUpdate">Nueva actualizac.</string>
+    <string name="updateNotNow">Ahora No</string>
+    <string name="updateInstall">Instalar</string>
+    <string name="updateInfoText">Nueva actualiz. disponible \nPor favor presiona "install" para instalarla</string>
+    <!-- End -->
+    <!-- Menu Song Dropdown -->
+    <string name="mnuGetPopulare">Populares</string>
+    <string name="mnuGetSimilarArtist">Artistas Similares</string>
+    <!-- End -->
+    <!-- Login -->
+    <string name="loginTitle">Ingresar</string>
+    <string name="loginUsername">Email:</string>
+    <string name="loginPassword">Password:</string>
+    <string name="loginRememberMe">Recordarme?</string>
+    <string name="loginRegister">Registro</string>
+    <string name="loggingInTitle">Ingresando</string>
+    <string name="loggingInGetting">Obteniendo listas</string>
+    <string name="loggingInGettingCount">Obteniendo: </string>
+    <string name="loggingInLoggedIn">Has ingresado!</string>
+    <string name="logginginVerify">Verificando cuenta</string>
+    <string name="loginUnsuccessful">Error! Nombre de usuario o password incorrecto!</string>
+    <string name="loginSuccessful"> Muy bien! Espera un segundo, cargando tus listas!</string>
+    <string name="loginForgotPassword"><u>Password olvidado?</u></string>
+    <string name="loginNotInloged">Sin ingresar</string>
+    <!-- End -->
+    <!-- ResetPassword -->
+    <string name="resetPwTitle">Resetear Password</string>
+    <string name="resetPwClose">Cerrar</string>
+    <string name="resetPwReset">Resetear</string>
+    <string name="resetPwSuccessful">Muy bien! Revisa tu correo para tu nuevo password</string>
+    <string name="resetPwUnsuccessful">Error! No existe ninguna cuenta con ese nombre de usuario</string>
+    <!-- End -->
+    <!-- Rename Private Playlist -->
+    <string name="renameTitle">Renombrar lista</string>
+    <string name="renameOK">OK</string>
+    <string name="renameSuccessful">Tu lista ha sido renombrada</string>
+    <string name="renameUnsuccessful">Mal! No se pudo renombrar tu lista!</string>
+    <!-- End -->
+    <!-- Delete Private Playlist -->
+    <string name="deletePrivateTitle">Borrar Lista</string>
+    <string name="deletePrivateInfo">En verdad quieres borrar esta lista?</string>
+    <string name="deletePrivateYes">Sí</string>
+    <string name="deletePrivateNo">No</string>
+    <string name="deletePrivateSuccessful">Tu lista ha sido borrada!</string>
+    <string name="deletePrivateUnsuccessful">Mal! Tu lista no pudo ser borrada!</string>
+    <!-- End -->
+    <!-- Delete Private Songs -->
+    <string name="deletePrivateSongUnsuccessful">Mal! No han sido borradas las canciones!</string>
+    <!-- End -->
+    <!-- Add Private Songs -->
+    <string name="addPRivateSongUnsuccessful">Mal! Canciones sin agregar!</string>
+    <!-- End -->
+    <!-- Account Menu -->
+    <string name="accountLogOut">Salir</string>
+    <string name="accountCreatePlaylist">Crear lista</string>
+    <string name="accountSyncPlaylist">Sincronizar listas</string>
+    <!-- End -->
+    <!-- Create Playlist on Account -->
+    <string name="createOnAccUnsuccessful">Mal! No se pudo crear lista nueva!</string>
+    <!-- End -->
+    <!-- Register new account -->
+    <string name="registerTitle">Crear cuenta</string>
+    <string name="registerClose">Cerrar</string>
+    <string name="registerSubmit">Crear</string>
+    <string name="registerEmailNotAvailable">La cuenta ya existe!</string>
+    <!-- End -->
+    <!-- Div. Toasts -->
+    <string name="toastWaitForRadioChannel">Radio sin cargar. Espera 2 seg. y reintenta.</string>
+    <!-- End -->
+    <!-- Equalizer -->
+    <string name="eqOn">ON</string>
+    <string name="eqOff">OFF</string>
+    <!-- End -->
+    <!-- Left menu -->
+    <string name="LeftMPlayer">Reproductor</string>
+    <string name="LeftMSearch">Buscar</string>
+    <string name="LeftMPlaylist">Listas</string>
+    <string name="LeftMSettings">Ajustes</string>
+    <string name="LeftMAbout">Acerca de</string>
+    <!-- End -->
+    <!-- StatsActivity -->
+    <string name="statsOthers">Otro</string>
+    <string name="statsTitle">Estadísticas</string>
+    <string name="statsLoading">Cargando. Por favor espera...</string>
+    <string name="statsInfo">Las estadísticas se limpiarán mensualmente</string>
+    <!-- End -->
+    <!-- RequestCreateActivity -->
+    <string name="requestTitle">Título:</string>
+    <string name="requestDescript">Descripción:</string>
+    <string name="requestSend">Crear</string>
+    <string name="requestCancel">Cancelar</string>
+    <string name="requestWentWrong">Ups! Algo no va bien! Vuelve a intentar o contacta al desarrollador!</string>
+    <!-- End -->
+    <!-- RequestViwerActivity -->
+    <string name="requestVoteDenied">Ya habías votado!</string>
+    <string name="requestVoted">Has votado!</string>
+    <string name="reqeustVoteDeniedYourReq">No puedes votar tu propia petición!</string>
+    <string name="reqeustVoteDeniedYourCom">No puedes votar tu propio comentario!</string>
+    <string name="requestLoadingComments">Cargando comentarios!</string>
+    <string name="requestNoComments">Esta petición aún no tiene comentarios!</string>
+    <string name="requestCommentPosted">Tu comentario ha sido posteado!</string>
+    <string name="requestContactingServer">Contactando servidor. Por favor espere...</string>
+    <string name="requestCommentReadMore">Leer más</string>
+    <string name="requestCommentHint">Escribe un comentario...</string>
+    <string name="requestViewerInfo"> Aquí puedes ver peticiones individuales a detalle, también los comentarios posteados por otros usuarios.\n\nPuedes votar las peticones con los botones like y dislike, puedes tambien votar y comentar otros comentarios.\nSolo pulsa en un comentario para verlo completo y poder votarlo!</string>
+    <!-- End -->
+    <!-- RequestBroswerActivity -->
+    <string name="requestBroswerInfo">Aquí puedes pedir una característica o cambio en la app. Así otros usuarios pueden votar y comentarla.\n\nEntre más likes tenga una petición, más probable será que se realice!</string>
+    <string name="requestErrorNonFound">No existen peticiones! Por qué no creas la primera?</string>
+    <!-- End -->
+</resources>

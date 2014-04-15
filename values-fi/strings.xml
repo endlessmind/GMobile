@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">GMobile</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="radiolist_toggle">radio"</string>
+    <string name="hintSearch">Etsi</string>
+    <string name="textOn">ON</string>
+    <string name="textOff">OFF</string>
+    <string name="btnChangeRadio">Vaihda kanavaa</string>
+    <string name="btnClearQueue">Poista jono</string>
+    <!-- End -->
+    <!-- menu_song -->
+    <string name="menuAddSongToPlaylists">Lisää soittolistaan</string>
+    <string name="menuAddSongToQueue">Lisää jonoon</string>
+    <string name="menuPlaySong">Soita</string>
+    <string name="menuRemoveSongFromPlaylist">Poista soittolistasta</string>
+    <string name="menuMoreFromThisArtist">Lisää tältä artistilta</string>
+    <string name="menuMoreFromThisAlbum">Lisää tältä albumilta</string>
+    <string name="menuActivateMultiselect">Activate multiselect</string>
+    <!-- End -->
+    <!-- menu_player_dropdown -->
+    <string name="menuSettings">Asetukset</string>
+    <string name="menuAbout">Tietoa</string>
+    <string name="menuEqualizer">Taajuuskorjain</string>
+    <string name="menuShutDown">Sulkea</string>
+    <string name="menuReorder">Järjestää</string>
+    <!-- End -->
+    <!-- Preferences -->
+    <string name="pref_general">Yleinen</string>
+    <string name="pref_donate">Lahjoita</string>
+    <string name="pref_other">Muuta</string>
+    <string name="pref_stats">Tilastot</string>
+    <string name="pref_stats_sum">View usage statistics for GMobile</string>
+    <string name="pref_facebook">Gmobile facebook</string>
+    <string name="pref_facebook_sum">Katso Gmobile facebookissa</string>
+    <string name="pref_storage">Tallennus</string>
+    <string name="pref_storage_to">Tallennuksen sijainti</string>
+    <string name="pref_storage_to_sum">Valitse kappaleille sijainti offline kuuntelua varten</string>
+    <string name="pref_storage_clear">Tyhjennä välimuisti</string>
+    <string name="pref_storage_clear_sum">Poista kaikki kappaleet välimuistista jotka ovat kuunneltavissa offline tilassa</string>
+    <string name="pref_report">Raportoi "äänettömästä" ohjelmointivirheestä</string>
+    <string name="pref_report_sum">Raportoi virheestä joka ei aiheuta ohjelma kaatumista.</string>
+    <string name="pref_low_bitrate">Käytä Korkea Bitrate</string>
+    <string name="pref_low_bitrate_sum">Korkea bitrate antaa paremman äänen, mutta käyttää enemmän tietoja ja kestää kauemmin puskuri.</string>
+    <string name="pref_pre_buffer">Esi-bufferoi</string>
+    <string name="pref_pre_buffer_sum">Pre-bufferoi seuraava kappale kytkeäksesi suoratoisto</string>
+    <string name="pref_lock_screen">Lukitusnäytön kontrollit</string>
+    <string name="pref_lock_screen_sum">Use LockScreen Controls to control music-playback from lockscreen</string>
+    <string name="pref_auto_login">Automattinen kirjautuminen</string>
+    <string name="pref_auto_login_sum">Automaattisesti kirjaudu GS-tilille jos mahdollista</string>
+    <string name="report_info">Hiljainen bugi on bugi joka ei aiheuta ohjelman kaatumista ja näin ollen se ei anna lähettää raporttia. Tällä toiminnolla voit myös raportoida tavallisia bugeja. Älä raportoi ohjelman kaatumisia tai jumittumia tällä toiminnolla. Kirjoita raportit englanniksi.</string>
+    <string name="pref_dev_info">Ohjelman kehitys</string>
+    <string name="pref_dev_info_sum">Mitä kehittäjä on suunnitellut Groovemobileen, ja miten se edistyy</string>
+    <string name="pref_version_sum">GrooveMobile versio</string>
+    <string name="pref_activate_beta">Aktivoi beta</string>
+    <string name="pref_activate_beta_sum">Anna beta-avain aktivoidaksesi beta</string>
+    <string name="pref_vis">Näytä visualisoija</string>
+    <string name="pref_vis_sum">Näytä visualisoija soittimessa</string>
+    <string name="pref_request">Pyyntö</string>
+    <string name="pref_request_sum">Pyydä toimintoja tai muutoksia ohjelmaan</string>
+    <string name="pref_gmobile_cat">GMobile</string>
+    <!-- End -->
+    <!-- Playlist -->
+    <plurals name="PlayListPlural">
+    <item quantity="one">%1$s Kappale</item>
+    <item quantity="other">%1$s Kappaleet</item>
+	</plurals>
+    <!-- End -->
+    <!-- Playlist Menu -->
+    <string name="menuOpenPlaylist">Aukaise</string>
+    <string name="menuRenamePlaylist">Uudelleen nimeä</string>
+    <string name="menuDeletePlaylist">Poista</string>
+    <string name="menuSongsOffline">Luettavaksi offline-tilassa</string>
+    <string name="menuAddListToQueue">Lisää jonoon</string>
+    <string name="menuSendViaBluetooth">Lähetä bluetoothin kautta</string>
+    <!-- End -->
+    <!-- New Playlists -->
+    <string name="newPlaylistTitle">Uusi soittolista</string>
+    <string name="newPlaylistCreate">Luo</string>
+    <!-- End -->
+    <!-- Add to list -->
+    <string name="addToTitle">Valitse soittolista</string>
+    <string name="addToNewPlaylist">Uusi soittolista</string>
+    <string name="addToOK">OK</string>
+    <string name="addToPrivate">Yksityinen soittolista</string>
+    <string name="addToLocal">Paikallinen soittolista</string>
+    <string name="addToType">Lisää</string>
+    <!-- End -->
+    <!-- Update -->
+    <string name="updateNewUpdate">Uusi päivitys</string>
+    <string name="updateNotNow">Ei nyt</string>
+    <string name="updateInstall">Asenna</string>
+    <string name="updateInfoText">Uusi päivitys saatavissa \nOle hyvä paina "asenna" asentaaksesi</string>
+    <!-- End -->
+    <!-- Menu Song Dropdown -->
+    <string name="mnuGetPopulare">Suosituimmat</string>
+    <string name="mnuGetSimilarArtist">Samankaltaisia artisteja</string>
+    <!-- End -->
+    <!-- Login -->
+    <string name="loginTitle">Kirjaudu sisään</string>
+    <string name="loginUsername">Sähköposti:</string>
+    <string name="loginPassword">Salasana:</string>
+    <string name="loginRememberMe">Muista minut?</string>
+    <string name="loginRegister">Rekisteröi</string>
+    <string name="loggingInTitle">Kirjautuu sisään</string>
+    <string name="loggingInGetting">Hakee soittolistaa</string>
+    <string name="loggingInGettingCount">Hakee: </string>
+    <string name="loggingInLoggedIn">Kirjauduttu sisään!</string>
+    <string name="logginginVerify">Varmistaa tiliä</string>
+    <string name="loginUnsuccessful">Epäonnistui! Väärä käyttäjänimi tai salasana!</string>
+    <string name="loginSuccessful">Onnistui! Odota 1 sekunti, ladataan soittolistaa!</string>
+    <string name="loginForgotPassword"><u>Unohditko salasanan?</u></string>
+    <string name="loginNotInloged">Ei ole kirjattu sisään</string>
+    <!-- End -->
+    <!-- ResetPassword -->
+    <string name="resetPwTitle">Nollaa salasana</string>
+    <string name="resetPwClose">Sulje</string>
+    <string name="resetPwReset">Nollaa</string>
+    <string name="resetPwSuccessful">Onnistui! Uusi salasani on lähetytty sähköpostiisi</string>
+    <string name="resetPwUnsuccessful">Epäonnistui! Tälle tilille ei löydy kyseistä käyttäjätunnusta</string>
+    <!-- End -->
+    <!-- Rename Private Playlist -->
+    <string name="renameTitle">Uudelleen nimeä soittolista</string>
+    <string name="renameOK">OK</string>
+    <string name="renameSuccessful">Soittolistasi on uudelleen nimetty</string>
+    <string name="renameUnsuccessful">Epäonnistui! Ei voitu nimeta uudelleen soittolistaa!</string>
+    <!-- End -->
+    <!-- Delete Private Playlist -->
+    <string name="deletePrivateTitle">Poista soittolista</string>
+    <string name="deletePrivateInfo">Oletko varma että haluat poistaa tämän soittolistan?</string>
+    <string name="deletePrivateYes">Kyllä</string>
+    <string name="deletePrivateNo">Ei</string>
+    <string name="deletePrivateSuccessful">Soittolistasi on poistettu!</string>
+    <string name="deletePrivateUnsuccessful">Epäonnistui! Ei voitu poistaa soittolistaa!</string>
+    <!-- End -->
+    <!-- Delete Private Songs -->
+    <string name="deletePrivateSongUnsuccessful">Epäonnistui! Ei voitu poistaa kappaleita!</string>
+    <!-- End -->
+    <!-- Add Private Songs -->
+    <string name="addPRivateSongUnsuccessful">Epäonnistui! Ei voitu lisätä kappaleita!</string>
+    <!-- End -->
+    <!-- Account Menu -->
+    <string name="accountLogOut">Kirjaudu ulos</string>
+    <string name="accountCreatePlaylist">Luo soittolista</string>
+    <string name="accountSyncPlaylist">Syncronoi soittolista</string>
+    <!-- End -->
+    <!-- Create Playlist on Account -->
+    <string name="createOnAccUnsuccessful">Epäonnistui! Ei voi luoda soittolistaa!</string>
+    <!-- End -->
+    <!-- Register new account -->
+    <string name="registerTitle">Luo käyttäjätunnus</string>
+    <string name="registerClose">Sulje</string>
+    <string name="registerSubmit">Luo</string>
+    <string name="registerEmailNotAvailable">Tili on jo käytössä!</string>
+    <!-- End -->
+    <!-- Div. Toasts -->
+    <string name="toastWaitForRadioChannel">Radio ei ole ladannut vielä. odota 2 sekuntia ja yritä uudelleen.</string>
+    <!-- End -->
+    <!-- Equalizer -->
+    <string name="eqOn">Päälle</string>
+    <string name="eqOff">Pois päältä</string>
+    <!-- End -->
+    <!-- Left menu -->
+    <string name="LeftMPlayer">Soitin</string>
+    <string name="LeftMSearch">Etsi</string>
+    <string name="LeftMPlaylist">Soittolistat</string>
+    <string name="LeftMSettings">Asetukset</string>
+    <string name="LeftMAbout">Tietoa ohjelmasta</string>
+    <!-- End -->
+    <!-- StatsActivity -->
+    <string name="statsOthers">Muuta</string>
+    <string name="statsTitle">Tilastoja</string>
+    <string name="statsLoading">Lataa. Ole hyvä ja odota...</string>
+    <string name="statsInfo">Tilastot tullaan tyhjentämään joka kuukausi</string>
+    <!-- End -->
+    <!-- RequestCreateActivity -->
+    <string name="requestTitle">Otiskko:</string>
+    <string name="requestDescript">Kuvaus:</string>
+    <string name="requestSend">Luo</string>
+    <string name="requestCancel">Peruuta</string>
+    <string name="requestWentWrong">Ops! Joku ei mennyt niinkuin odotettiin! Yritä uudelleen tai ota yhteyttä ohjelmistokehittäjään!</string>
+    <!-- End -->
+    <!-- RequestViwerActivity -->
+    <string name="requestVoteDenied">Sinä olet jo äänestänyt!</string>
+    <string name="requestVoted">Sinä olet äänestänyt!</string>
+    <string name="reqeustVoteDeniedYourReq">Sinä et voi äänestää omaa pyyntöäsi!</string>
+    <string name="reqeustVoteDeniedYourCom">Sinä et voi äänestää omaa kommenttiasi!</string>
+    <string name="requestLoadingComments">Ladataan kommentteja!</string>
+    <string name="requestNoComments">Tälle pyynnölle ei ole vielä yhtään kommenttia!</string>
+    <string name="requestCommentPosted">Sinun kommenttisi on lähetetty!</string>
+    <string name="requestContactingServer">Yhdistetään serverille. Odota hetki...</string>
+    <string name="requestCommentReadMore">Lue lisää</string>
+    <string name="requestCommentHint">Kirjoita kommentti...</string>
+    <string name="requestViewerInfo">Täällä voit katsoa lisää yksityiskohtia yksittäisistä pyynnöistä ja kommentoida muiden käyttäjien jättämiä viestejä.\n\nVoit myös äänestää käyttämällä en tykkää painiketta ja voit myös kommentoida ja äänestää muiden kommentteja.\nKlikkaa kommentti kohtaa ja näet sen koko pituuden ja voit äänestää.</string>
+    <!-- End -->
+    <!-- RequestBroswerActivity -->
+    <string name="requestBroswerInfo">Pyydä toimintoja tai muutoksia ohjelmaan täältä. Toiset käyttäjät voivat äänestää ja kommentoida niitä. Mitä enemmän tykkäyksiä sitä todennäköisemmin myös toteutan ne!</string>
+    <string name="requestErrorNonFound">Pyyntöä ei löydy, luo se ensin!</string>
+    <!-- End -->
+</resources>

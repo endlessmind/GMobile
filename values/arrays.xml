@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_stats_actoins">
+        <item>Users per Android-version</item>
+        <item>Startups per Android-version</item>
+        <item>Users per device</item>
+        <item>Startups per device</item>
+    </string-array>
+    <string-array name="array_request_create_type">
+        <item>Add</item>
+        <item>Change</item>
+    </string-array>
+    <string-array name="pref_themes_names">
+        <item>Light</item>
+        <item>Dark</item>
+    </string-array>
+        <string-array name="pref_themes_keys">
+        <item>Light</item>
+        <item>Dark</item>
+    </string-array>
+    <string-array name="pref_use_high_bitrate">
+        <item>Wifi only</item>
+        <item>Always</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_use_high_bitrate_key">
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="pref_active_downloads">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+</resources>

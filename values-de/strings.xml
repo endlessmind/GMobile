@@ -24,7 +24,7 @@
     <string name="menuAbout">Über</string>
     <string name="menuEqualizer">Equalizer</string>
     <string name="menuShutDown">Schließen</string>
-    <string name="menuReorder">Nachbestellung</string>
+    <string name="menuReorder">Erneut ordnen</string>
     <!-- End -->
     <!-- Preferences -->
     <string name="pref_general">Allgemein</string>
@@ -41,8 +41,8 @@
     <string name="pref_storage_clear_sum">Lösche den Cache </string>
     <string name="pref_report">Melde stille Fehler</string>
     <string name="pref_report_sum">Berichte von Fehlern die auftreten, aber keinen App-Absturz verursachen</string>
-    <string name="pref_low_bitrate">Verwende Hoch Bitrate</string>
-    <string name="pref_low_bitrate_sum">Use for better sound (Uses more data)</string>
+    <string name="pref_low_bitrate">Verwende hohe Bitrate</string>
+    <string name="pref_low_bitrate_sum">Für besseren Klang (verbraucht mehr Daten)</string>
     <string name="pref_pre_buffer">Verwende Pre-Buffering</string>
     <string name="pref_pre_buffer_sum">Pre-Buffer den nächsten Song für sofortige Wiedergabe</string>
     <string name="pref_lock_screen">Sperrbildschirm Steuerung</string>

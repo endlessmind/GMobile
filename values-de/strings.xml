@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
+    <string name="version">1.1.0-Beta2</string>
+    <string name="is_beta">falsch</string>
     <string name="app_name">GMobile</string>
     <string name="drawer_open">Öffne Navigation</string>
     <string name="drawer_close">Schließe Navigation</string>
@@ -18,6 +20,8 @@
     <string name="menuMoreFromThisArtist">Mehr von diesem Künstler</string>
     <string name="menuMoreFromThisAlbum">Mehr von diesem Album</string>
     <string name="menuActivateMultiselect">Aktiviere Mehrfachauswahl</string>
+    <string name="menuSelectAll">Alle auswählen</string>
+    <string name="menuUnselectAll">Auswahl aufheben</string>
     <!-- End -->
     <!-- menu_player_dropdown -->
     <string name="menuSettings">Einstellungen</string>
@@ -60,6 +64,13 @@
     <string name="pref_request">Vorschläge</string>
     <string name="pref_request_sum">Schlage Änderungen oder Features für die App vor</string>
     <string name="pref_gmobile_cat">GMobile</string>
+    <string name="pref_appearances_cat">Aussehen</string>
+    <string name="pref_theme">Wähle Thema</string>
+    <string name="pref_theme_sum">Wähle das Thema, dass die App benutzen soll</string>
+    <string name="pref_whats_new">Was ist neu</string>
+    <string name="pref_whats_new_url">http://www.scilor.com/groovemobile/mobile/index_en.html</string>
+    <string name="pref_active_download_count">Anzahl aktiver Downloads</string>
+    <string name="pref_active_download_count_sum">Wähle die Anzahl erlaubter aktiver Downloads</string>
     <!-- End -->
     <!-- Playlist -->
     <plurals name="PlayListPlural">
@@ -112,6 +123,10 @@
     <string name="loginSuccessful"> Erfolg! Einen Moment, lade deine Wiedergabelisten!</string>
     <string name="loginForgotPassword"><u>Passwort vergessen?</u></string>
     <string name="loginNotInloged">Nicht angemeldet</string>
+    <string name="loginError">Fehler beim Anmelden</string>
+    <string name="loginGuest">Gast</string>
+    <string name="loginOutOfSyncTitle">Nicht aktuell!</string>
+    <string name="loginOutOfSyncMsg">Einige deiner Wiedergabelisten scheinen nicht aktuell zu sein. Aktualisieren?</string>
     <!-- End -->
     <!-- ResetPassword -->
     <string name="resetPwTitle">Passwort zurücksetzen</string>
@@ -153,6 +168,8 @@
     <string name="registerClose">Schließen</string>
     <string name="registerSubmit">Erstellen</string>
     <string name="registerEmailNotAvailable">Account existiert bereits!</string>
+    <string name="registerFirstName">Vorname:</string>
+    <string name="registerLastName">Nachname:</string>
     <!-- End -->
     <!-- Div. Toasts -->
     <string name="toastWaitForRadioChannel">Radio noch nicht geladen. Warte 2 Sekunden und versuche es erneut.</string>
@@ -180,6 +197,7 @@
     <string name="requestSend">Erstellen</string>
     <string name="requestCancel">Abbrechen</string>
     <string name="requestWentWrong">Ups! Etwas Unerwartetes ist passiert! Versuche es noch einmal oder kontaktiere den Entwickler!</string>
+    <string name="requestEmptyField">Ups! Scheint als hättest du vergessen einen Titel oder eine Beschreibung einzutragen!</string>
     <!-- End -->
     <!-- RequestViwerActivity -->
     <string name="requestVoteDenied">Du hast bereits abgestimmt!</string>
@@ -192,10 +210,13 @@
     <string name="requestContactingServer">Kontaktiere Server. Bitte warten...</string>
     <string name="requestCommentReadMore">Weiterlesen</string>
     <string name="requestCommentHint">Schreibe einen Kommentar...</string>
+    <string name="requestCommentPostedBy">Geschrieben von </string>
     <string name="requestViewerInfo"> Hier kannst du eine bestimmte Anfrage und die dazugehörigen Kommentare anderer User sehen.\n\nDu kannst für oder gegen eine Anfrage mit "Gefällt mir" oder "Gefällt mir nicht" abstimmen. Du kannst auch einen Kommentar abgeben und für andere Kommentare abstimmen.\nBerühre einfach eine Anfrage um sie ganz zu sehen und abzustimmen!</string>
     <!-- End -->
     <!-- RequestBroswerActivity -->
     <string name="requestBroswerInfo">Schlage Änderungen oder Features für die App vor. Andere Benutzer können dann dafür abstimmen oder die Anfrage kommentieren.\n\nJe mehr Stimmen eine Anfrage bekommen hat, desto wahrscheinlicher ist es, dass die Anfrage in der App umgesetzt wird.!</string>
     <string name="requestErrorNonFound">Es extistieren bisher keine Anfragen, warum schreibst du nicht einfach die erste?</string>
     <!-- End -->
+    <!-- About -->
+    <string name="aboutApp">GMobile ist eine kostenlose Musik-Streaming App für Android, die von Pontus und Daniel (alias Scilor) geschrieben wurde. Sie verwendet den Grooveshark Server, um dir kostenlose Musik zu jeder Zeit zu ermöglichen.\n\nWir sind auf keine Art und Weise in Grooveshark involviert.\n\nCredit:\n\nJanne - Finnische Übersetzung\n\nSarfati - Französische Übersetzung\n\nDavid - Deutsche Übersetzung\n\nEnrique - Spanische Übersetzung\n\n游鈞元 - Chinesische Übersetzung\n\nAli - Design Ideen\n\nGaspar - Design Ideen &amp; feedback\n\nBeta Tester - Feedback</string>
 </resources>

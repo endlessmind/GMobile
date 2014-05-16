@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
-    <string name="version">1.1.0-Beta2</string>
     <string name="is_beta">falsch</string>
-    <string name="app_name">GMobile</string>
-    <string name="drawer_open">Öffne Navigation</string>
-    <string name="drawer_close">Schließe Navigation</string>
+    <string name="drawer_open">Navigation öffnen</string>
+    <string name="drawer_close">Navigation schließen</string>
     <string name="radiolist_toggle">Radio"</string>
     <string name="hintSearch">Suche</string>
     <string name="textOn">AN</string>
     <string name="textOff">AUS</string>
-    <string name="btnChangeRadio">Wechsle Sender</string>
-    <string name="btnClearQueue">Lösche Warteschlange</string>
+    <string name="btnChangeRadio">Sender wechseln</string>
+    <string name="btnClearQueue">Warteschlange löschen</string>
     <!-- End -->
     <!-- menu_song -->
     <string name="menuAddSongToPlaylists">Zur Wiedergabeliste hinzufügen</string>
@@ -19,7 +17,7 @@
     <string name="menuRemoveSongFromPlaylist">Von Wiedergabeliste entfernen</string>
     <string name="menuMoreFromThisArtist">Mehr von diesem Künstler</string>
     <string name="menuMoreFromThisAlbum">Mehr von diesem Album</string>
-    <string name="menuActivateMultiselect">Aktiviere Mehrfachauswahl</string>
+    <string name="menuActivateMultiselect">Mehrfachauswahl starten</string>
     <string name="menuSelectAll">Alle auswählen</string>
     <string name="menuUnselectAll">Auswahl aufheben</string>
     <!-- End -->
@@ -27,50 +25,50 @@
     <string name="menuSettings">Einstellungen</string>
     <string name="menuAbout">Über</string>
     <string name="menuEqualizer">Equalizer</string>
-    <string name="menuShutDown">Schließen</string>
+    <string name="menuShutDown">Beenden</string>
     <string name="menuReorder">Erneut ordnen</string>
     <!-- End -->
     <!-- Preferences -->
     <string name="pref_general">Allgemein</string>
     <string name="pref_donate">Spenden</string>
-    <string name="pref_other">Andere</string>
+    <string name="pref_other">Sonstige</string>
     <string name="pref_stats">Statistiken</string>
-    <string name="pref_stats_sum">Zeige Statistiken von GMobile</string>
+    <string name="pref_stats_sum">Statistiken von GMobile einsehen</string>
     <string name="pref_facebook">Wir auf Facebook</string>
-    <string name="pref_facebook_sum">Besuche GrooveMobile auf Facebook</string>
+    <string name="pref_facebook_sum">GrooveMobile auf Facebook besuchen</string>
     <string name="pref_storage">Speicher</string>
     <string name="pref_storage_to">Speicherort</string>
-    <string name="pref_storage_to_sum">Wähle einen Speicherort um deine Musik offline hören zu können</string>
+    <string name="pref_storage_to_sum">Speicherort für die offline Wiedergabe wählen</string>
     <string name="pref_storage_clear">Cache löschen</string>
-    <string name="pref_storage_clear_sum">Lösche den Cache </string>
-    <string name="pref_report">Melde stille Fehler</string>
-    <string name="pref_report_sum">Berichte von Fehlern die auftreten, aber keinen App-Absturz verursachen</string>
-    <string name="pref_low_bitrate">Verwende hohe Bitrate</string>
-    <string name="pref_low_bitrate_sum">Für besseren Klang (verbraucht mehr Daten)</string>
-    <string name="pref_pre_buffer">Verwende Pre-Buffering</string>
-    <string name="pref_pre_buffer_sum">Pre-Buffer den nächsten Song für sofortige Wiedergabe</string>
-    <string name="pref_lock_screen">Sperrbildschirm Steuerung</string>
-    <string name="pref_lock_screen_sum">Verwende die Sperrbildschirm Steuerung um die Wiedergabe der Musik auf dem Sperrbildschirm zu steuern</string>
-    <string name="pref_auto_login">Automatische Anmeldung</string>
-    <string name="pref_auto_login_sum">Melde dich automatisch auf deinem GS-Account ein, sofern möglich</string>
-    <string name="report_info">Stille Fehler sind Fehler, die keinen Absturz verursachen und sich somit eigentlich nicht melden lassen. Mit dieser Funktion ist dies aber dennoch möglich. Bitte mit dieser Funktion kein Abstürzen oder Einfrieren der App melden. Bitte Fehler auf englisch beschreiben.</string>
+    <string name="pref_storage_clear_sum"></string>
+    <string name="pref_report">Stille Fehler melden</string>
+    <string name="pref_report_sum">Fehler, die ohne Absturz der Anwendung auftreten mit einem Bericht melden</string>
+    <string name="pref_low_bitrate">Hohe Bitrate verwenden</string>
+    <string name="pref_low_bitrate_sum">Besseren Klang durch höheren Datenverbrauch erzeugen</string>
+    <string name="pref_pre_buffer">Pre-Buffering verwenden</string>
+    <string name="pref_pre_buffer_sum">Nächsten Song für sofortige Wiedergabe laden</string>
+    <string name="pref_lock_screen">Sperrbildschirmsteuerung</string>
+    <string name="pref_lock_screen_sum">Audiosteuerung auf dem Sperrbildschirm anzeigen</string>
+    <string name="pref_auto_login">Automatisch anmelden</string>
+    <string name="pref_auto_login_sum">Wenn möglich, automatisch mit GS-Account verbinden</string>
+    <string name="report_info">Stille Fehler lassen eine App nicht abstürzen. Damit diese dennoch mit einem Bericht gemeldet werden können, wird mit dieser Funtion ein Absturz simuliert. Im Nachrichtenfeld bitte kein Abstürzen oder Einfrieren beschreiben und die Nachricht auf Englisch verfassen.</string>
     <string name="pref_dev_info">Entwicklerfortschritte</string>
-    <string name="pref_dev_info_sum">Was hat der Entwickler von Groovemobile geplant und wie geht es voran</string>
+    <string name="pref_dev_info_sum">Planungen und Fortschritte des Entwicklers von Groovemobile einsehen</string>
     <string name="pref_version_sum">GrooveMobile Version</string>
-    <string name="pref_activate_beta">Aktiviere Beta</string>
-    <string name="pref_activate_beta_sum">Gib einen Beta-Key ein um den Beta-Zugang freizuschalten</string>
-    <string name="pref_vis">Zeige Visualisierer</string>
-    <string name="pref_vis_sum">Zeige den Visualisierer im Player</string>
+    <string name="pref_activate_beta">Beta aktivieren</string>
+    <string name="pref_activate_beta_sum">Beta-Key eingeben um Beta-Zugang freizuschalten</string>
+    <string name="pref_vis">Visualisierung</string>
+    <string name="pref_vis_sum">Visualisierung im Player anzeigen</string>
     <string name="pref_request">Vorschläge</string>
-    <string name="pref_request_sum">Schlage Änderungen oder Features für die App vor</string>
+    <string name="pref_request_sum">Änderungen oder Features für die App vorschlagen</string>
     <string name="pref_gmobile_cat">GMobile</string>
     <string name="pref_appearances_cat">Aussehen</string>
-    <string name="pref_theme">Wähle Thema</string>
-    <string name="pref_theme_sum">Wähle das Thema, dass die App benutzen soll</string>
-    <string name="pref_whats_new">Was ist neu</string>
+    <string name="pref_theme">Thema wählen</string>
+    <string name="pref_theme_sum">Thema der App auswählen</string>
+    <string name="pref_whats_new">Neuerungen</string>
     <string name="pref_whats_new_url">http://www.scilor.com/groovemobile/mobile/index_en.html</string>
     <string name="pref_active_download_count">Anzahl aktiver Downloads</string>
-    <string name="pref_active_download_count_sum">Wähle die Anzahl erlaubter aktiver Downloads</string>
+    <string name="pref_active_download_count_sum">Zugelassene Anzahl aktiver Downloads wählen</string>
     <!-- End -->
     <!-- Playlist -->
     <plurals name="PlayListPlural">
@@ -83,15 +81,15 @@
     <string name="menuRenamePlaylist">Umbenennen</string>
     <string name="menuDeletePlaylist">Löschen</string>
     <string name="menuSongsOffline">Offline verfügbar machen</string>
-    <string name="menuAddListToQueue">Zur Warteschlange hinzufügen</string>
+    <string name="menuAddListToQueue">Zu Warteschlange hinzufügen</string>
     <string name="menuSendViaBluetooth">Via Bluetooth senden</string>
     <!-- End -->
     <!-- New Playlists -->
     <string name="newPlaylistTitle">Neue Wiedergabeliste</string>
-    <string name="newPlaylistCreate">Erstelle neue Liste</string>
+    <string name="newPlaylistCreate">Erstellen</string>
     <!-- End -->
     <!-- Add to list -->
-    <string name="addToTitle">Wähle Wiedergabeliste</string>
+    <string name="addToTitle">Wiedergabeliste wählen</string>
     <string name="addToNewPlaylist">Neue Wiedergabeliste</string>
     <string name="addToOK">OK</string>
     <string name="addToPrivate">Private Wiedergabeliste</string>
@@ -102,31 +100,31 @@
     <string name="updateNewUpdate">Neues Update</string>
     <string name="updateNotNow">Nicht jetzt</string>
     <string name="updateInstall">Installieren</string>
-    <string name="updateInfoText">Neues Update verfügbar \nKlicke auf "Installieren" um es jetzt zu installieren.</string>
+    <string name="updateInfoText">Neues Update verfügbar \n"Installieren" auswählen, um es jetzt zu installieren</string>
     <!-- End -->
     <!-- Menu Song Dropdown -->
-    <string name="mnuGetPopulare">Finde beliebte</string>
-    <string name="mnuGetSimilarArtist">Finde ähnliche Künstler</string>
+    <string name="mnuGetPopulare">Beliebte anzeigen</string>
+    <string name="mnuGetSimilarArtist">Ähnliche Künstler finden</string>
     <!-- End -->
     <!-- Login -->
-    <string name="loginTitle">Anmeldung</string>
+    <string name="loginTitle">Anmelden</string>
     <string name="loginUsername">Email:</string>
     <string name="loginPassword">Passwort:</string>
-    <string name="loginRememberMe">Anmeldedaten speichern?</string>
+    <string name="loginRememberMe">Anmeldedaten speichern</string>
     <string name="loginRegister">Registrieren</string>
     <string name="loggingInTitle">Anmelden</string>
     <string name="loggingInGetting">Empfange Wiedergabelisten</string>
     <string name="loggingInGettingCount">Empfange: </string>
     <string name="loggingInLoggedIn">Angemeldet!</string>
-    <string name="logginginVerify">Bestätige Account</string>
-    <string name="loginUnsuccessful">Fehlgeschlagen! Name oder Passwort falsch!</string>
-    <string name="loginSuccessful"> Erfolg! Einen Moment, lade deine Wiedergabelisten!</string>
+    <string name="logginginVerify">Account bestätigen</string>
+    <string name="loginUnsuccessful">Login schlug fehl! Name oder Passwort falsch!</string>
+    <string name="loginSuccessful"> Login erfolgreich! Wiedergabelisten werden geladen</string>
     <string name="loginForgotPassword"><u>Passwort vergessen?</u></string>
     <string name="loginNotInloged">Nicht angemeldet</string>
     <string name="loginError">Fehler beim Anmelden</string>
     <string name="loginGuest">Gast</string>
     <string name="loginOutOfSyncTitle">Nicht aktuell!</string>
-    <string name="loginOutOfSyncMsg">Einige deiner Wiedergabelisten scheinen nicht aktuell zu sein. Aktualisieren?</string>
+    <string name="loginOutOfSyncMsg">Einige Wiedergabelisten sind scheinbar nicht aktuell. Sollen diese aktualisiert werden?</string>
     <!-- End -->
     <!-- ResetPassword -->
     <string name="resetPwTitle">Passwort zurücksetzen</string>
@@ -172,7 +170,7 @@
     <string name="registerLastName">Nachname:</string>
     <!-- End -->
     <!-- Div. Toasts -->
-    <string name="toastWaitForRadioChannel">Radio noch nicht geladen. Warte 2 Sekunden und versuche es erneut.</string>
+    <string name="toastWaitForRadioChannel">Radio noch nicht geladen. Bitte in 2 Sekunden erneut versuchen</string>
     <!-- End -->
     <!-- Equalizer -->
     <string name="eqOn">AN</string>
@@ -180,15 +178,15 @@
     <!-- End -->
     <!-- Left menu -->
     <string name="LeftMPlayer">Player</string>
-    <string name="LeftMSearch">Suche</string>
+    <string name="LeftMSearch">Suchen</string>
     <string name="LeftMPlaylist">Wiedergabelisten</string>
     <string name="LeftMSettings">Einstellungen</string>
     <string name="LeftMAbout">Über</string>
     <!-- End -->
     <!-- StatsActivity -->
-    <string name="statsOthers">Andere</string>
+    <string name="statsOthers">Sonstige</string>
     <string name="statsTitle">Statistiken</string>
-    <string name="statsLoading">Lädt. Bitte warten...</string>
+    <string name="statsLoading">Wird geladen. Bitte warten&#8230;</string>
     <string name="statsInfo">Statistiken werden jeden Monat zurückgesetzt</string>
     <!-- End -->
     <!-- RequestCreateActivity -->
@@ -197,26 +195,45 @@
     <string name="requestSend">Erstellen</string>
     <string name="requestCancel">Abbrechen</string>
     <string name="requestWentWrong">Ups! Etwas Unerwartetes ist passiert! Versuche es noch einmal oder kontaktiere den Entwickler!</string>
-    <string name="requestEmptyField">Ups! Scheint als hättest du vergessen einen Titel oder eine Beschreibung einzutragen!</string>
+    <string name="requestEmptyField">Ups! Es wurde kein Title oder keine Beschreibung eingetragen!</string>
     <!-- End -->
     <!-- RequestViwerActivity -->
     <string name="requestVoteDenied">Du hast bereits abgestimmt!</string>
     <string name="requestVoted">Du hast abgestimmt!</string>
     <string name="reqeustVoteDeniedYourReq">Du kannst nicht für deine eigene Anfrage abstimmen!</string>
     <string name="reqeustVoteDeniedYourCom">Du kannst nicht für deinen eigenen Kommentar abstimmen!</string>
-    <string name="requestLoadingComments">Lade Kommentare!</string>
+    <string name="requestLoadingComments">Kommentare laden&#8230;</string>
     <string name="requestNoComments">Diese Anfrage hat bisher keine Kommentare!</string>
     <string name="requestCommentPosted">Dein Kommentar wurde hinzugefügt!</string>
-    <string name="requestContactingServer">Kontaktiere Server. Bitte warten...</string>
-    <string name="requestCommentReadMore">Weiterlesen</string>
-    <string name="requestCommentHint">Schreibe einen Kommentar...</string>
-    <string name="requestCommentPostedBy">Geschrieben von </string>
-    <string name="requestViewerInfo"> Hier kannst du eine bestimmte Anfrage und die dazugehörigen Kommentare anderer User sehen.\n\nDu kannst für oder gegen eine Anfrage mit "Gefällt mir" oder "Gefällt mir nicht" abstimmen. Du kannst auch einen Kommentar abgeben und für andere Kommentare abstimmen.\nBerühre einfach eine Anfrage um sie ganz zu sehen und abzustimmen!</string>
+    <string name="requestContactingServer">Kontaktiere Server. Bitte warten&#8230;</string>
+    <string name="requestCommentReadMore">Mehr</string>
+    <string name="requestCommentHint">Schreibe einen Kommentar&#8230;</string>
+    <string name="requestCommentPostedBy">Von </string>
+    <string name="requestViewerInfo"> Hier siehst du eine bestimmte Anfrage und die dazugehörigen Kommentare anderer User sehen.\n\nDu kannst für oder gegen eine Anfrage oder ein Kommentar mit "Gefällt mir" oder "Gefällt mir nicht" abstimmen. Berühre einfach einen Kommentar um ihn ganz zu sehen und für ihn abzustimmen!\nDu kannst auch einen eigenen Kommentar abgeben.</string>
     <!-- End -->
     <!-- RequestBroswerActivity -->
-    <string name="requestBroswerInfo">Schlage Änderungen oder Features für die App vor. Andere Benutzer können dann dafür abstimmen oder die Anfrage kommentieren.\n\nJe mehr Stimmen eine Anfrage bekommen hat, desto wahrscheinlicher ist es, dass die Anfrage in der App umgesetzt wird.!</string>
-    <string name="requestErrorNonFound">Es extistieren bisher keine Anfragen, warum schreibst du nicht einfach die erste?</string>
+    <string name="requestBroswerInfo">Schlage Änderungen oder Features für die App vor. Andere Benutzer können dafür abstimmen oder die Anfrage kommentieren.\n\nJe mehr Stimmen eine Anfrage bekommt, desto eher wird die Anfrage in der App umgesetzt.</string>
+    <string name="requestErrorNonFound">Bisher existieren keine Anfragen. Warum schreibst du nicht einfach die erste?</string>
     <!-- End -->
     <!-- About -->
-    <string name="aboutApp">GMobile ist eine kostenlose Musik-Streaming App für Android, die von Pontus und Daniel (alias Scilor) geschrieben wurde. Sie verwendet den Grooveshark Server, um dir kostenlose Musik zu jeder Zeit zu ermöglichen.\n\nWir sind auf keine Art und Weise in Grooveshark involviert.\n\nCredit:\n\nJanne - Finnische Übersetzung\n\nSarfati - Französische Übersetzung\n\nDavid - Deutsche Übersetzung\n\nEnrique - Spanische Übersetzung\n\n游鈞元 - Chinesische Übersetzung\n\nAli - Design Ideen\n\nGaspar - Design Ideen &amp; feedback\n\nBeta Tester - Feedback</string>
+    <string name="aboutApp">GMobile ist eine kostenlose Musik-Streaming App für Android von Pontus und Daniel (alias Scilor). Sie verwendet Grooveshark Server, um zu jeder Zeit kostenlose Musik zu ermöglichen.\n\nWir stehen in keiner Weise mit Grooveshark in Verbindung.\n\nDanke an:\n\nJanne - Finnische Übersetzung\n\nSarfati - Französische Übersetzung\n\nDavid - Deutsche Übersetzung\n\nEnrique - Spanische Übersetzung\n\n游鈞元 - Chinesische Übersetzung\n\nAli - Designideen\n\nGaspar - Designideen &amp; Feedback\n\nBeta Tester - Feedback</string>
+    <!-- End -->
+    <!-- Arrays -->
+    <string name="statsActionsUsersPerVersion">Nutzer pro Android-Version</string>
+    <string name="statsActionsStartupsPerVersion">App-Starts pro Android-Version</string>
+    <string name="statsActionUsersPerDevice">Nutzer pro Gerät</string>
+    <string name="statsActionStartupsPerDevice">App-Starts pro Gerät</string>
+
+    <string name="requestCreateTypeAdd">Hinzufügen</string>
+    <string name="requestCreateTypeChange">Bearbeiten</string>
+
+    <string name="light">Hell</string>
+    <string name="dark">Dunkel</string>
+
+    <string name="highBitrateWifi">Nur im WLAN</string>
+    <string name="highBitrateAlways">Immer</string>
+    <string name="highBitrateNever">Niemals</string>
+    <!-- End -->
+</resources>
+    
 </resources>

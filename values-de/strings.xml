@@ -217,4 +217,23 @@
     <!-- End -->
     <!-- About -->
     <string name="aboutApp">GMobile ist eine kostenlose Musik-Streaming App für Android von Pontus und Daniel (alias Scilor). Sie verwendet Grooveshark Server, um zu jeder Zeit kostenlose Musik zu ermöglichen.\n\nWir stehen in keiner Weise mit Grooveshark in Verbindung.\n\nDanke an:\n\nJanne - Finnische Übersetzung\n\nSarfati - Französische Übersetzung\n\nDavid - Deutsche Übersetzung\n\nEnrique - Spanische Übersetzung\n\n游鈞元 - Chinesische Übersetzung\n\nAli - Designideen\n\nGaspar - Designideen &amp; Feedback\n\nBeta Tester - Feedback</string>
+    <!-- End -->
+    <!-- Arrays -->
+    <string name="statsActionsUsersPerVersion">Nutzer pro Android-Version</string>
+    <string name="statsActionsStartupsPerVersion">App-Starts pro Android-Version</string>
+    <string name="statsActionUsersPerDevice">Nutzer pro Gerät</string>
+    <string name="statsActionStartupsPerDevice">App-Starts pro Gerät</string>
+
+    <string name="requestCreateTypeAdd">Hinzufügen</string>
+    <string name="requestCreateTypeChange">Bearbeiten</string>
+
+    <string name="light">Hell</string>
+    <string name="dark">Dunkel</string>
+
+    <string name="highBitrateWifi">Nur im WLAN</string>
+    <string name="highBitrateAlways">Immer</string>
+    <string name="highBitrateNever">Niemals</string>
+    <!-- End -->
+</resources>
+    
 </resources>

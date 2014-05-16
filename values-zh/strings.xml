@@ -171,7 +171,7 @@
     <!-- StatsActivity -->
     <string name="statsOthers">其它</string>
     <string name="statsTitle">統計</string>
-    <string name="statsLoading">讀取中，請稍候...</string>
+    <string name="statsLoading">讀取中，請稍候&#8230;</string>
     <string name="statsInfo">每個月會清除統計資料</string>
     <!-- End -->
     <!-- RequestCreateActivity -->
@@ -190,9 +190,9 @@
     <string name="requestLoadingComments">正在讀取評論!</string>
     <string name="requestNoComments">尚未有針對此建議的評論!</string>
     <string name="requestCommentPosted">已送出您的評論!</string>
-    <string name="requestContactingServer">與伺服器連接中，請稍候...</string>
+    <string name="requestContactingServer">與伺服器連接中，請稍候&#8230;</string>
     <string name="requestCommentReadMore">查看更多</string>
-    <string name="requestCommentHint">發表評論...</string>
+    <string name="requestCommentHint">發表評論&#8230;</string>
     <string name="requestViewerInfo"> 您可以在這查看單一建議的詳細內容與其它使用者對它的評論， \n\n您可以對此項建議用"讚"或是"遜"的按鈕來投票, 也可以發表評論或對其它使用者的評論投票。\n點擊評論來查看所有內容並對它投票!</string>
     <!-- End -->
     <!-- RequestBroswerActivity -->

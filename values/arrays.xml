@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="array_stats_actoins">
-        <item>Users per Android-version</item>
-        <item>Startups per Android-version</item>
-        <item>Users per device</item>
-        <item>Startups per device</item>
+        <item>@string/statsActionsUsersPerVersion</item>
+        <item>@string/statsActionsStartupsPerVersion</item>
+        <item>@string/statsActionUsersPerDevice</item>
+        <item>@string/statsActionStartupsPerDevice</item>
     </string-array>
     <string-array name="array_request_create_type">
-        <item>Add</item>
-        <item>Change</item>
+        <item>@string/requestCreateTypeAdd</item>
+        <item>@string/requestCreateTypeChange</item>
     </string-array>
     <string-array name="pref_themes_names">
-        <item>Light</item>
-        <item>Dark</item>
+        <item>@string/light</item>
+        <item>@string/dark</item>
     </string-array>
         <string-array name="pref_themes_keys">
-        <item>Light</item>
-        <item>Dark</item>
+        <item>@string/light</item>
+        <item>@string/dark</item>
     </string-array>
     <string-array name="pref_use_high_bitrate">
-        <item>Wifi only</item>
-        <item>Always</item>
-        <item>Never</item>
+        <item>@string/highBitrateWifi</item>
+        <item>@string/highBitrateAlways</item>
+        <item>@string/highBitrateNever</item>
     </string-array>
     <string-array name="pref_use_high_bitrate_key">
         <item>2</item>

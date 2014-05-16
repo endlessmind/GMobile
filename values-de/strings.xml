@@ -186,7 +186,7 @@
     <!-- StatsActivity -->
     <string name="statsOthers">Sonstige</string>
     <string name="statsTitle">Statistiken</string>
-    <string name="statsLoading">Wird geladen. Bitte warten...</string>
+    <string name="statsLoading">Wird geladen. Bitte warten&#8230;</string>
     <string name="statsInfo">Statistiken werden jeden Monat zurückgesetzt</string>
     <!-- End -->
     <!-- RequestCreateActivity -->
@@ -202,12 +202,12 @@
     <string name="requestVoted">Du hast abgestimmt!</string>
     <string name="reqeustVoteDeniedYourReq">Du kannst nicht für deine eigene Anfrage abstimmen!</string>
     <string name="reqeustVoteDeniedYourCom">Du kannst nicht für deinen eigenen Kommentar abstimmen!</string>
-    <string name="requestLoadingComments">Kommentare laden...</string>
+    <string name="requestLoadingComments">Kommentare laden&#8230;</string>
     <string name="requestNoComments">Diese Anfrage hat bisher keine Kommentare!</string>
     <string name="requestCommentPosted">Dein Kommentar wurde hinzugefügt!</string>
-    <string name="requestContactingServer">Kontaktiere Server. Bitte warten...</string>
+    <string name="requestContactingServer">Kontaktiere Server. Bitte warten&#8230;</string>
     <string name="requestCommentReadMore">Mehr</string>
-    <string name="requestCommentHint">Schreibe einen Kommentar...</string>
+    <string name="requestCommentHint">Schreibe einen Kommentar&#8230;</string>
     <string name="requestCommentPostedBy">Von </string>
     <string name="requestViewerInfo"> Hier siehst du eine bestimmte Anfrage und die dazugehörigen Kommentare anderer User sehen.\n\nDu kannst für oder gegen eine Anfrage oder ein Kommentar mit "Gefällt mir" oder "Gefällt mir nicht" abstimmen. Berühre einfach einen Kommentar um ihn ganz zu sehen und für ihn abzustimmen!\nDu kannst auch einen eigenen Kommentar abgeben.</string>
     <!-- End -->

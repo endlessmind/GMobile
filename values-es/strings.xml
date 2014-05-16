@@ -174,7 +174,7 @@
     <!-- StatsActivity -->
     <string name="statsOthers">Otro</string>
     <string name="statsTitle">Estadísticas</string>
-    <string name="statsLoading">Cargando. Por favor espera...</string>
+    <string name="statsLoading">Cargando. Por favor espera&#8230;</string>
     <string name="statsInfo">Las estadísticas se limpiarán mensualmente</string>
     <!-- End -->
     <!-- RequestCreateActivity -->
@@ -192,9 +192,9 @@
     <string name="requestLoadingComments">Cargando comentarios!</string>
     <string name="requestNoComments">Esta petición aún no tiene comentarios!</string>
     <string name="requestCommentPosted">Tu comentario ha sido posteado!</string>
-    <string name="requestContactingServer">Contactando servidor. Por favor espere...</string>
+    <string name="requestContactingServer">Contactando servidor. Por favor espere&#8230;</string>
     <string name="requestCommentReadMore">Leer más</string>
-    <string name="requestCommentHint">Escribe un comentario...</string>
+    <string name="requestCommentHint">Escribe un comentario&#8230;</string>
     <string name="requestViewerInfo"> Aquí puedes ver peticiones individuales a detalle, también los comentarios posteados por otros usuarios.\n\nPuedes votar las peticones con los botones like y dislike, puedes tambien votar y comentar otros comentarios.\nSolo pulsa en un comentario para verlo completo y poder votarlo!</string>
     <!-- End -->
     <!-- RequestBroswerActivity -->

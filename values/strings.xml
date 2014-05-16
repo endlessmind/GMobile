@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
-    <string name="version">1.1.0-Beta2</string>
+    <string name="version" translatable="false">1.1.0-Beta2</string>
     <string name="is_beta">false</string>
-    <string name="app_name">GMobile</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name" translatable="false">GMobile</string>
     <string name="drawer_open">Open navigation drawer</string>
     <string name="drawer_close">Close navigation drawer</string>
     <string name="radiolist_toggle">radio"</string>
@@ -205,13 +204,13 @@
     <string name="requestVoted">You\'ve voted!</string>
     <string name="reqeustVoteDeniedYourReq">You can\'t vote on your own request!</string>
     <string name="reqeustVoteDeniedYourCom">You can\'t vote on your own comment!</string>
-    <string name="requestLoadingComments">Loading comments!</string>
+    <string name="requestLoadingComments">Loading comments...</string>
     <string name="requestNoComments">This request has no comments yet!</string>
     <string name="requestCommentPosted">Your comment has been posted!</string>
     <string name="requestContactingServer">Contacting server. Please wait...</string>
     <string name="requestCommentReadMore">Read more</string>
     <string name="requestCommentHint">Write a comment...</string>
-    <string name="requestCommentPostedBy">Posted by </string>
+    <string name="requestCommentPostedBy">By </string>
     <string name="requestViewerInfo"> Here you can view a single request in more detail, and also the comments posted by other users.\n\nYou can vote on the request with the like and dislike buttons, you can also post a comment and vote on other comments.\nJust tap on a comment to view the full lenght and to vote on it!</string>
     <!-- End -->
     <!-- RequestBroswerActivity -->

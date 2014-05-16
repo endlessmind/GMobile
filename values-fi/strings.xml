@@ -171,7 +171,7 @@
     <!-- StatsActivity -->
     <string name="statsOthers">Muuta</string>
     <string name="statsTitle">Tilastoja</string>
-    <string name="statsLoading">Lataa. Ole hyvä ja odota...</string>
+    <string name="statsLoading">Lataa. Ole hyvä ja odota&#8230;</string>
     <string name="statsInfo">Tilastot tullaan tyhjentämään joka kuukausi</string>
     <!-- End -->
     <!-- RequestCreateActivity -->
@@ -189,9 +189,9 @@
     <string name="requestLoadingComments">Ladataan kommentteja!</string>
     <string name="requestNoComments">Tälle pyynnölle ei ole vielä yhtään kommenttia!</string>
     <string name="requestCommentPosted">Sinun kommenttisi on lähetetty!</string>
-    <string name="requestContactingServer">Yhdistetään serverille. Odota hetki...</string>
+    <string name="requestContactingServer">Yhdistetään serverille. Odota hetki&#8230;</string>
     <string name="requestCommentReadMore">Lue lisää</string>
-    <string name="requestCommentHint">Kirjoita kommentti...</string>
+    <string name="requestCommentHint">Kirjoita kommentti&#8230;</string>
     <string name="requestViewerInfo">Täällä voit katsoa lisää yksityiskohtia yksittäisistä pyynnöistä ja kommentoida muiden käyttäjien jättämiä viestejä.\n\nVoit myös äänestää käyttämällä en tykkää painiketta ja voit myös kommentoida ja äänestää muiden kommentteja.\nKlikkaa kommentti kohtaa ja näet sen koko pituuden ja voit äänestää.</string>
     <!-- End -->
     <!-- RequestBroswerActivity -->

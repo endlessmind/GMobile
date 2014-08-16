@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
-    <string name="version" translatable="false">1.1.0-Beta2</string>
+    <string name="version">1.1.3</string>
     <string name="is_beta">false</string>
-    <string name="app_name" translatable="false">GMobile</string>
+    <string name="app_name">GMobile</string>
+    <string name="hello_world">Hello world!</string>
     <string name="drawer_open">Open navigation drawer</string>
     <string name="drawer_close">Close navigation drawer</string>
     <string name="radiolist_toggle">radio"</string>
@@ -188,7 +189,7 @@
     <!-- StatsActivity -->
     <string name="statsOthers">Other</string>
     <string name="statsTitle">Statistics</string>
-    <string name="statsLoading">Loading. Please wait&#8230;</string>
+    <string name="statsLoading">Loading. Please wait...</string>
     <string name="statsInfo">Statistics will be clear each month</string>
     <!-- End -->
     <!-- RequestCreateActivity -->
@@ -204,13 +205,13 @@
     <string name="requestVoted">You\'ve voted!</string>
     <string name="reqeustVoteDeniedYourReq">You can\'t vote on your own request!</string>
     <string name="reqeustVoteDeniedYourCom">You can\'t vote on your own comment!</string>
-    <string name="requestLoadingComments">Loading comments&#8230;</string>
+    <string name="requestLoadingComments">Loading comments!</string>
     <string name="requestNoComments">This request has no comments yet!</string>
     <string name="requestCommentPosted">Your comment has been posted!</string>
-    <string name="requestContactingServer">Contacting server. Please wait&#8230;</string>
+    <string name="requestContactingServer">Contacting server. Please wait...</string>
     <string name="requestCommentReadMore">Read more</string>
-    <string name="requestCommentHint">Write a comment&#8230;</string>
-    <string name="requestCommentPostedBy">By </string>
+    <string name="requestCommentHint">Write a comment...</string>
+    <string name="requestCommentPostedBy">Posted by </string>
     <string name="requestViewerInfo"> Here you can view a single request in more detail, and also the comments posted by other users.\n\nYou can vote on the request with the like and dislike buttons, you can also post a comment and vote on other comments.\nJust tap on a comment to view the full lenght and to vote on it!</string>
     <!-- End -->
     <!-- RequestBroswerActivity -->
@@ -220,20 +221,7 @@
     <!-- About -->
     <string name="aboutApp">GMobile is a free to use music streaming app for Android, made by Pontus and Daniel (aka Scilor). It uses Grooveshark server to give you free music at any time.\n\nWe\'re not related to Grooveshark in anyway.\n\nCredit:\n\nJanne - Finnish Translation\n\nSarfati - French Translation\n\nDavid - German Translation\n\nEnrique - Spanish Translation\n\n游鈞元 - Chinese Translation\n\nAli - Design ideas\n\nGaspar - Design ideas &amp; feedback\n\nBeta testers - Feedback</string>
     <!-- End -->
-    <!-- Arrays -->
-    <string name="statsActionsUsersPerVersion">Users per Android-version</string>
-    <string name="statsActionsStartupsPerVersion">Startups per Android-version</string>
-    <string name="statsActionUsersPerDevice">Users per device</string>
-    <string name="statsActionStartupsPerDevice">Startups per device</string>
-
-    <string name="requestCreateTypeAdd">Add</string>
-    <string name="requestCreateTypeChange">Change</string>
-
-    <string name="light">Light</string>
-    <string name="dark">Dark</string>
-
-    <string name="highBitrateWifi">Wifi only</string>
-    <string name="highBitrateAlways">Always</string>
-    <string name="highBitrateNever">Never</string>
-    <!-- End -->
+    <!-- QueueList -->
+    <string name="queue_title">Play Queue</string>
+    <string name="queue_no_items">Here is no songs in the queue right now!</string>
 </resources>
